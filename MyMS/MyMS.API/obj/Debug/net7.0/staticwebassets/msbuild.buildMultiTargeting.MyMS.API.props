@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyMS.API.props" />
+</Project>

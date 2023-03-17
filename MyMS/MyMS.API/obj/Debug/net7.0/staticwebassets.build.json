@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oWyLlALkoMTi4dCA7n6tqcTpmjWG/ynDDTr5uvc5nco=",
+  "Source": "MyMS.API",
+  "BasePath": "_content/MyMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
